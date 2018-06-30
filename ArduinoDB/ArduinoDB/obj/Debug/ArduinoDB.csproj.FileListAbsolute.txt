@@ -1,0 +1,11 @@
+c:\users\lovyannikov_as\documents\visual studio 2017\Projects\ArduinoDB\ArduinoDB\bin\Debug\ArduinoDB.exe.config
+c:\users\lovyannikov_as\documents\visual studio 2017\Projects\ArduinoDB\ArduinoDB\bin\Debug\ArduinoDB.exe
+c:\users\lovyannikov_as\documents\visual studio 2017\Projects\ArduinoDB\ArduinoDB\bin\Debug\ArduinoDB.pdb
+c:\users\lovyannikov_as\documents\visual studio 2017\Projects\ArduinoDB\ArduinoDB\bin\Debug\EntityFramework.dll
+c:\users\lovyannikov_as\documents\visual studio 2017\Projects\ArduinoDB\ArduinoDB\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\lovyannikov_as\documents\visual studio 2017\Projects\ArduinoDB\ArduinoDB\bin\Debug\EntityFramework.xml
+c:\users\lovyannikov_as\documents\visual studio 2017\Projects\ArduinoDB\ArduinoDB\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\lovyannikov_as\documents\visual studio 2017\Projects\ArduinoDB\ArduinoDB\obj\Debug\ArduinoDB.csprojResolveAssemblyReference.cache
+c:\users\lovyannikov_as\documents\visual studio 2017\Projects\ArduinoDB\ArduinoDB\obj\Debug\ArduinoDB.csproj.CoreCompileInputs.cache
+c:\users\lovyannikov_as\documents\visual studio 2017\Projects\ArduinoDB\ArduinoDB\obj\Debug\ArduinoDB.exe
+c:\users\lovyannikov_as\documents\visual studio 2017\Projects\ArduinoDB\ArduinoDB\obj\Debug\ArduinoDB.pdb
